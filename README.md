@@ -6,7 +6,7 @@ Berserta
 
 [flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
 
-![Gambar 1](png/TampilanProgram.png)
+![Gambar 1](png/Tampilan Program.png)
 
 <hr>
 
