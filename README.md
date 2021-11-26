@@ -2,11 +2,9 @@
 <hr>
 
 Pada pertemuan-9 ini saya dari kelas TI.21.C.5 diberikan tugas oleh Dosen untuk  menginput data kedalam list.
-Berserta 
+Berserta [flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
 
-[flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
-
-![Gambar 1](png/TampilanProgram.png)
+![Gambar 1](png/TugasPraktikum.png) ![Gambar 2](png/TampilanProgram.png)
 
 <hr>
 
@@ -76,8 +74,8 @@ while ulang:
         ulang = False
 ````
 
-    Untuk keluar dari perulangan kita hanya perlu menginputkan *t* apabila diminta pada saat program dijalankan.
-    *t* akan membuat variable ulang = True menjadi ulang = False yang mana akan menghentikan perulangan yang terjadi.
+    Untuk keluar dari perulangan kita hanya perlu menginputkan t apabila diminta pada saat program dijalankan.
+    t akan membuat variable ulang = True menjadi ulang = False yang mana akan menghentikan perulangan yang terjadi.
 
 4.) Terakhir kita akan mencetak hasil dari program yang telah dibuat.
 
@@ -95,4 +93,4 @@ print("==================================================================")
 ````
 Berikut hasil dari program data mahasiswa 
 
-![Gambar 2](png/Hasil.png)
+![Gambar 3](png/Hasil.png)
