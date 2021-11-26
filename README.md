@@ -95,4 +95,4 @@ print("==================================================================")
 ````
 Berikut hasil dari program data mahasiswa 
 
-![Gambar 2](png/)
+![Gambar 2](png/Hasil.png)
