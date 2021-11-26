@@ -1,12 +1,12 @@
 # Tugas Praktikum 
 <hr>
 
-Pada pertemuan-9 ini saya dari kelas TI.A.1 diberikan tugas oleh Dosen untuk  menginput data kedalam list.
+Pada pertemuan-9 ini saya dari kelas TI.21.C.5 diberikan tugas oleh Dosen untuk  menginput data kedalam list.
 Berserta 
 
 [flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
 
-![Gambar 1](png/TampilanProgram.png)
+![Gambar 1](png/Tampilan Program.png)
 
 <hr>
 
