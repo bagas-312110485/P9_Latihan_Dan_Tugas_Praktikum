@@ -6,7 +6,7 @@ Berserta
 
 [flowchart, ](flowchart.pdf) dan contoh tugas yang di berikan pada pertemuan-9 <br>
 
-![Gambar 1](png/Tampilan Program.png)
+![Gambar 1](png/TampilanProgram.png)
 
 <hr>
 
@@ -76,8 +76,8 @@ while ulang:
         ulang = False
 ````
 
-    Untuk keluar dari perulangan kita hanya perlu menginputkan t apabila diminta pada saat program dijalankan.
-    t akan membuat variable ulang = True menjadi ulang = False yang mana akan menghentikan perulangan yang terjadi.
+    Untuk keluar dari perulangan kita hanya perlu menginputkan *t* apabila diminta pada saat program dijalankan.
+    *t* akan membuat variable ulang = True menjadi ulang = False yang mana akan menghentikan perulangan yang terjadi.
 
 4.) Terakhir kita akan mencetak hasil dari program yang telah dibuat.
 
