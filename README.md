@@ -13,9 +13,7 @@ pertama adalah membuat list dengan 5 elemen saya membuat list
 kedua pada akses list saya diberi 3 soalan
 
 >1.Menampilkan elemen ke 3
-
 >2.Ambil nilai elemen ke 2 sampai elemen ke 4
-
 >3.Ambil elemen terakhir
 
 dari soal diatas saya mengerjakan dengan cara sebagai berikut:
