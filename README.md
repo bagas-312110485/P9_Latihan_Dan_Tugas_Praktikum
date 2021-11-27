@@ -6,14 +6,16 @@ pada modul praktikum 4 saya diberi soal latiihan seperti dibawah :
 
 pertama adalah membuat list dengan 5 elemen saya membuat list
 
-    ````py
+````py
     a = [6, 7, 8, 9, 10]
-    ````
+````
 
 kedua pada akses list saya diberi 3 soalan
 
 >1.Menampilkan elemen ke 3
+
 >2.Ambil nilai elemen ke 2 sampai elemen ke 4
+
 >3.Ambil elemen terakhir
 
 dari soal diatas saya mengerjakan dengan cara sebagai berikut:
