@@ -2,27 +2,21 @@
 Pada pertemuan-9 ini saya dari kelas TI.21.C.5 diberikan tugas oleh Dosen untuk mengerjakan latihan 
 pada modul praktikum 4 saya diberi soal latiihan seperti dibawah :
 
-<br>
-
 [Gambar 4](png/Latihan.PNG)
+
 pertama adalah membuat list dengan 5 elemen saya membuat list
+
     ````py
     a = [6, 7, 8, 9, 10]
     ````
 
 kedua pada akses list saya diberi 3 soalan
 
-<br>
-
 >1.Menampilkan elemen ke 3
 >2.Ambil nilai elemen ke 2 sampai elemen ke 4
 >3.Ambil elemen terakhir
 
-<br>
-
 dari soal diatas saya mengerjakan dengan cara sebagai berikut:
-
-<br>
 
     ````py
     1. a[2]
@@ -34,16 +28,10 @@ dari soal diatas saya mengerjakan dengan cara sebagai berikut:
 
 ketiga pada ubah element list saya diberikan 2 soalan
 
-<br>
-
 >1.ubah elemen ke 4 dengan nilai lainnya
 >2.ubah elemen ke 4 sampai dengan elemen terakhir
 
-<br>
-
 dari soalan diatas saya menjawab dengan cara sebagai berikut:
-
-<br>
 
     ````py
     a [3] = 5
@@ -54,18 +42,13 @@ dari soalan diatas saya menjawab dengan cara sebagai berikut:
 
 terakhir pada tambah elemen list saya diberi soalan sebagai berikut
 
-<br>
-
 >1.Ambil 2 bagian dari list pertama (A) dan jadikan list ke 2 (B)
 >2.Tambah list B dengan nilai string
 >3.Tambah list B dengan 3 nilai
 >4.gabungkan list B dengan list A
 
-<br>
-
 dari soal diatas saya menjawab dengan cara sebagai berikut:
 
-<br>
 
     ````py
     b = []
@@ -78,8 +61,6 @@ dari soal diatas saya menjawab dengan cara sebagai berikut:
     c=a+b
     print(c)
     ````
-
-<br>
 
 berikut ini adalah screenshot pada visual studio code 
 
