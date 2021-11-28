@@ -1,7 +1,6 @@
 # Latihan Pertemuan 9
 Pada pertemuan-9 ini saya dari kelas TI.21.C.5 diberikan tugas oleh Dosen untuk mengerjakan latihan 
 pada modul praktikum 4 saya diberi soal latiihan seperti dibawah :
-
 [Gambar](png/Soal.png)
 
 pertama adalah membuat list dengan 5 elemen saya membuat list
