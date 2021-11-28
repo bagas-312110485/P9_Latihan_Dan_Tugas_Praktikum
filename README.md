@@ -13,33 +13,32 @@ pertama adalah membuat list dengan 5 elemen saya membuat list
 kedua pada akses list saya diberi 3 soalan
 
 >1.Menampilkan elemen ke 3<br>
->2.Ambil nilai elemen ke 2 sampai elemen ke 4
-
-3.Ambil elemen terakhir
+>2.Ambil nilai elemen ke 2 sampai elemen ke 4<br>
+>3.Ambil elemen terakhir
 
 dari soal diatas saya mengerjakan dengan cara sebagai berikut:
 
-    ````py
-    1. a[2]
-    2. del a[1:4]
+ ````py
+     1. a[2]
+     2. del a[1:4]
         print(a)
-    3. del a[1] 
+     3. del a[1] 
         print(a)
-    ````
+````
 
 ketiga pada ubah element list saya diberikan 2 soalan
 
->1.ubah elemen ke 4 dengan nilai lainnya
->2.ubah elemen ke 4 sampai dengan elemen terakhir
+>1.ubah elemen ke 4 dengan nilai lainnya<br>
+>2.ubah elemen ke 4 sampai dengan elemen terakhir<br>
 
 dari soalan diatas saya menjawab dengan cara sebagai berikut:
 
-    ````py
+````py
     a [3] = 5
     print (a)
     a [3:5] = 3, 4
     print(a)
-    ````
+````
 
 terakhir pada tambah elemen list saya diberi soalan sebagai berikut
 
@@ -49,9 +48,8 @@ terakhir pada tambah elemen list saya diberi soalan sebagai berikut
 >4.gabungkan list B dengan list A
 
 dari soal diatas saya menjawab dengan cara sebagai berikut:
-
-
-    ````py
+ 
+````py
     b = []
     b.extend (a[0:2])
     print(b)
@@ -61,10 +59,15 @@ dari soal diatas saya menjawab dengan cara sebagai berikut:
     print(b)
     c=a+b
     print(c)
-    ````
+````
 
 berikut ini adalah screenshot pada visual studio code 
 
+![Gambar 5](png/ProgLat.png)
+
+### Outputnya 
+
+![Gambar 6](png/Output.png)
 
 dari soal diatas saya menjawab dengan cara sebagai berikut:
 # Tugas Praktikum Pertemuan 9
